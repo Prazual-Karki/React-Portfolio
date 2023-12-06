@@ -7,7 +7,7 @@ import prazual from '../photos/prazualPhoto.jpg'
 export default function Banner() {
   const [loopNum, setLoopNum] = useState(0)
   const [isDeleting, setIsDeleting] = useState(false)
-  const toRotate = ['Full Stack developer', 'web designer', 'UI/UX designer']
+  const toRotate = ['Front-end developer',  'Web designer']
   const [text, setText] = useState('')
   const period = 2000
   const [delta, setDelta] = useState(300 - Math.random() * 100)
