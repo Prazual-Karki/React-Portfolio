@@ -52,10 +52,7 @@ export default function Banner() {
               <h1>Hi, I'm Prazual Karki</h1>
               <h2>{text}</h2>
               <p>
-                Experienced full stack developer with proficient in building
-                dynamic and responsive web applications using React.js for the
-                frontend and Node.js/Express.js for the backend. Skilled in
-                utilizing MongoDB,MySql for efficient data management.
+                Experienced Front-end developer skilled in React.js, Next.js, TypeScript, Node.js, and MongoDB. Expertise in building modern web applications with seamless user experiences. Proficient in front-end and knowledge of back-end development, creating reusable and efficient code. Eager to contribute to innovative and impactful projects.
               </p>
             </Col>
             <Col xs={12} md={6} xl={5}>
