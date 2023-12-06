@@ -15,7 +15,7 @@ export default function Projects() {
               <h2>Projects</h2>
               <p>
                 I have created many awesome projects on my own and here you can
-                observe a little glimpse of my latest projects.
+                observe a little glimpse of some of my projects.
                 <br />
                 Click below on the Tab to see
               </p>
@@ -47,6 +47,7 @@ export default function Projects() {
                         >
                           GitHub Link
                         </a>
+                            <br/><br/>
                             <a
                           href='https://rent-nepal.onrender.com'
                           style={{ color: 'white' }}
