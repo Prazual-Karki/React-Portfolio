@@ -12,8 +12,7 @@ export default function Skills() {
               <Col>
                 <h2>Skills</h2>
                 <p>
-                  I possess a wide range of skills as a full stack developer
-                  (especially on MERN stack), enabling me to develop
+                  I possess a wide range of skills as a front-end developer enabling me to develop
                   comprehensive web applications and solve complex problems
                   efficiently.
                 </p>
@@ -34,12 +33,11 @@ export default function Skills() {
                 <p>Back-End skills</p>
                 <Button variant='dark'>Node Js</Button>
                 <Button variant='dark'>Python</Button>
-                <Button variant='dark'>Java</Button>
+                
               </Col>
               <Col xs={12} md={4} lg={4}>
                 <p>Database</p>
                 <Button variant='dark'>MongoDb</Button>
-
                 <Button variant='dark'>MySql</Button>
               </Col>
             </Row>
@@ -56,6 +54,7 @@ export default function Skills() {
                 <Button variant='dark'>Material UI</Button>&nbsp;&nbsp;
                 <Button variant='dark'>Ant Design</Button>&nbsp;&nbsp;
                 <Button variant='dark'>Tailwind Css</Button>&nbsp;&nbsp;
+                <Button variant='dark'>Styled Component</Button>&nbsp;&nbsp;
               </Col>
             </Row>
 
