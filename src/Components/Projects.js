@@ -17,7 +17,7 @@ export default function Projects() {
                 I have created many awesome projects on my own and here you can
                 observe a little glimpse of my latest projects.
                 <br />
-                Click on the Tab
+                Click below on the Tab to see
               </p>
               <Tab.Container id='projects-tabs' defaultActive='first'>
                 <Nav
@@ -46,6 +46,12 @@ export default function Projects() {
                           style={{ color: 'white' }}
                         >
                           GitHub Link
+                        </a>
+                            <a
+                          href='https://rent-nepal.onrender.com'
+                          style={{ color: 'white' }}
+                        >
+                          Live Demo
                         </a>
                       </div>
                     </div>
